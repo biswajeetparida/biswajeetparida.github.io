@@ -3152,7 +3152,6 @@ input[type=range]+.thumb {
 
 @font-face {
     font-family: Material-Design-Icons;
-    src: url(http://trimatrixlab.com/store/flatrica/stylesheets/fonts/material-design-icons/Material-Design-Icons.eot?) format("embedded-opentype"), url(http://trimatrixlab.com/store/flatrica/stylesheets/fonts/material-design-icons/Material-Design-Icons.woff2) format("woff2"), url(http://trimatrixlab.com/store/flatrica/stylesheets/fonts/material-design-icons/Material-Design-Icons.woff) format("woff"), url(http://trimatrixlab.com/store/flatrica/stylesheets/fonts/material-design-icons/Material-Design-Icons.ttf) format("truetype"), url(http://trimatrixlab.com/store/flatrica/stylesheets/fonts/material-design-icons/Material-Design-Icons.svg) format("svg");
     font-weight: 400;
     font-style: normal
 }
